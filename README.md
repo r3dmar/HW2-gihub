@@ -11,3 +11,6 @@ https://github.com/r3dmar/Hello-world-github
 ## Task 6
 ![](https://github.com/r3dmar/HW2-gihub/blob/master/hw2tsk6.jpg)
 ## Task 7
+https://github.com/r3dmar/hello-world-git
+## Task 8
+https://r3dmar.github.io/test-gh-pages/ 
