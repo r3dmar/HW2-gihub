@@ -6,7 +6,7 @@ https://github.com/cursor-education/welcome-to-github/pull/251
 ![](https://github.com/r3dmar/HW2-gihub/blob/master/hw2tsk3.jpg)
 ## Task 4
 ![](https://github.com/r3dmar/HW2-gihub/blob/master/hw2tsk4.jpg)
-![](https://github.com/r3dmar/HW2-gihub/blob/master/hw2tsk41.png)
+![](https://github.com/r3dmar/HW2-gihub/blob/master/hw2tks41.png)
 ## Task 5
 https://github.com/r3dmar/Hello-world-github
 ## Task 6
